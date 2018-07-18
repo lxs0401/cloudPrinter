@@ -6,12 +6,12 @@
  * Time: 8:26
  */
 session_start();
-$con = mysql_connect("localhost","root","wslzd9877");
+$con = mysql_connect("localhost","yundayin","CdAtaF4j57mfw8rT");
 if (!$con)
 {
     die('Could not connect: ' . mysql_error());
 }
-mysql_select_db("user", $con);
+mysql_select_db("yundayin", $con);
 $user = $_SESSION["user"];
 $pass = $_SESSION["pass"];
 session_destroy();

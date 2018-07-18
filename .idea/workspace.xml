@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+
     <list default="true" id="9ab12226-e758-4977-8fc9-d112216bdba4" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -56,7 +57,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="registered.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="registered.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/registered.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
@@ -95,7 +96,13 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>untitled</find>
+      <find>wslzd9877</find>
+      <find>root</find>
     </findStrings>
+    <replaceStrings>
+      <replace>CdAtaF4j57mfw8rT</replace>
+      <replace>yundayin</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -111,13 +118,13 @@
         <option value="$PROJECT_DIR$/test.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$USER_HOME$/Desktop/新建文件夹 (4)/businessView.php" />
-        <option value="$PROJECT_DIR$/businessView.php" />
         <option value="$PROJECT_DIR$/loginView.php" />
         <option value="$PROJECT_DIR$/registeredView.php" />
         <option value="$PROJECT_DIR$/login.php" />
         <option value="$PROJECT_DIR$/uploadFile.php" />
-        <option value="$PROJECT_DIR$/registered.php" />
         <option value="$PROJECT_DIR$/userView.php" />
+        <option value="$PROJECT_DIR$/businessView.php" />
+        <option value="$PROJECT_DIR$/registered.php" />
       </list>
     </option>
   </component>
@@ -185,6 +192,8 @@
       <workItem from="1531649722891" duration="40562000" />
       <workItem from="1531785535781" duration="9091000" />
       <workItem from="1531892749716" duration="7435000" />
+      <workItem from="1531900598106" duration="863000" />
+      <workItem from="1531903596670" duration="214000" />
     </task>
     <servers />
   </component>
@@ -330,28 +339,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uploadFile.php">
+    <entry file="file://$PROJECT_DIR$/registeredView.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/registeredView.php">
+    <entry file="file://$PROJECT_DIR$/login.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="118" column="71" selection-start-line="118" selection-start-column="71" selection-end-line="118" selection-end-column="71" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/uploadFile.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
@@ -372,14 +381,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/registered.php">
+    <entry file="file://$PROJECT_DIR$/businessView.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/userView.php">
+    <entry file="file://$PROJECT_DIR$/registered.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="111" column="29" selection-start-line="111" selection-start-column="29" selection-end-line="111" selection-end-column="29" />
